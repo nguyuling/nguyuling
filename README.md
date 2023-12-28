@@ -1,9 +1,7 @@
-<h1 align="center">Hi, this is Yuling.</h1>
-<h3 align="center">I'm passionate in Biology but somehow end up in Computer Science.</h3>
+<h1 align="center">Hi, this is Yuling</h1>
+<h3 align="center">I'm passionate in biology but somehow end up in Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyuling&label=Profile%20views&color=0e75b6&style=flat" alt="nguyuling" /> </p>
-
-<p align="left"> <a href="https://twitter.com/nguyuling" target="blank"><img src="https://img.shields.io/twitter/follow/nguyuling?logo=twitter&style=for-the-badge" alt="nguyuling" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
