@@ -1,5 +1,5 @@
 <h1 align="center">Hi, this is Yuling</h1>
-<h3 align="center">I'm passionate in biology but somehow end up in Computer Science.</h3>
+<h3 align="center">I'm passionate in Biology but somehow end up in Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyuling&label=Profile%20views&color=0e75b6&style=flat" alt="nguyuling" /> </p>
 
