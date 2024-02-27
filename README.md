@@ -5,7 +5,7 @@ A 1<sup>st</sup> year **Computer Science (Bioinformatics)** student at **Univers
 <img src="![cowboy-boots](https://github.com/nguyuling/nguyuling/assets/150541276/d61202c5-0abf-47f8-b7d9-4f49cb61477b)" width="250" height="250"/>
 
 &emsp;👣 I’m currently learning **programming** and **bioinformatics**  
-&emsp;🗄️**Latest repo**: [SECP - Technology, Information & System](https://github.com/nguyuling/SECP1513-Assignment)  
+&emsp;🗄️ **Latest repo**: [SECP - Technology, Information & System](https://github.com/nguyuling/SECP1513-Assignment)  
 &emsp;✒ **How to reach me**: don't... jk nguyuling@utm.graduate.my  
 &emsp;🖤 **Big on** reading (particularly philosophy), country music and football  
 
