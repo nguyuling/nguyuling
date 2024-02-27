@@ -1,4 +1,4 @@
-## ¡Hola, this is Yuling!
+# ¡Hola, this is Yuling!
 
 ### A 1st year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
 
