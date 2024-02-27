@@ -1,8 +1,6 @@
-### ¡Hola, this is Yuling!
+# ¡Hola, this is Yuling!
 
-###
-
-#### A 1st year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
+## A 1st year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
 
 <img src="![cowboy-boots](https://github.com/nguyuling/nguyuling/assets/150541276/d61202c5-0abf-47f8-b7d9-4f49cb61477b)" width="250" height="250"/>
 
