@@ -4,7 +4,8 @@
 
 <p align="left">
   <img src="https://github.com/nguyuling/nguyuling/assets/150541276/c6f9d7cc-4a29-46af-aa89-ae76e46d518f" />
-</p> &emsp;👣 I’m currently learning **programming** and **bioinformatics**  
+</p>  
+&emsp;👣 I’m currently learning **programming** and **bioinformatics**  
 &emsp;🗄️ **Latest repo**: [SECP - Technology, Information & System](https://github.com/nguyuling/SECP1513-Assignment)  
 &emsp;✒ **How to reach me**: don't... jk nguyuling@utm.graduate.my  
 &emsp;🖤 **Big on** reading (particularly philosophy), country music and football  
