@@ -17,6 +17,12 @@
 
 ##
 
+### Position:
+&emsp;▪‍ Secretary II Friend of UTM Library
+&emsp;▪‍ Ahli Rakan JKM KTDI UTM
+
+##
+
 ### Honour & Rewards:
 &emsp;▪‍ Tokoh Nilam 2019 (Pahang State)
 &emsp;▪‍ 1<sup>st</sup> prize National Literary Writing Contest (Prose)
