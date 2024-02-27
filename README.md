@@ -1,7 +1,7 @@
 # ![Pivot_Wave (3)](https://github.com/nguyuling/nguyuling/assets/150541276/96957f03-22c3-4cb2-9fec-ccb65600456c) ¡Hola, this is Yuling!
 
 ### A 1<sup>st</sup> year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
-<img align="left" width="268" height="153" src="[cowboy-hat-soccer-books-upscaled (3)]([https://github-readme-stats.vercel.app/api?username=nguyuling&show_icons=true](https://github.com/nguyuling/nguyuling/assets/150541276/8e84d86e-9480-45f2-b27f-f2a66304d387))">
+<img align="left" width="268" height="153" src="![cowboyhat](https://github.com/nguyuling/nguyuling/assets/150541276/1c6af4f7-9430-4be6-9256-e817492b103c)">
 
 &emsp;👣 I’m currently learning **programming** and **bioinformatics**  
 &emsp;🗄️ **Latest repo**: [SECP - Technology, Information & System](https://github.com/nguyuling/SECP1513-Assignment)  
