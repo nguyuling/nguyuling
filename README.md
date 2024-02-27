@@ -18,7 +18,7 @@
 
 ##
 
-### Position:  
+### Positions:  
 &emsp;▪‍ Secretary II of [Friend of UTM Library (FLUTM)](https://library.utm.my/friends-of-the-utm-library/) 
 &emsp;▪‍ Ahli Rakan [JKM KTDI UTM](https://studentaffairs.utm.my/ktdi/author/jkmktdi/)  
 
