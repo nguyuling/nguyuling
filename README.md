@@ -1,7 +1,5 @@
 <h1 align="left">¡Hola, this is Yuling!👋</h1>
 
-###
-
 <h2 align="left">Computer Science (Bioinformatics)</h2>
 
 ###
