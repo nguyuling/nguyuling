@@ -1,7 +1,8 @@
 ### ¡Hola, this is Yuling!
 #### A 1st year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
 
-![Uploading cowboy-smiley.gif…]()
+
+![cowboy-smiley](https://github.com/nguyuling/nguyuling/assets/150541276/739c5d9b-5317-452c-a651-12ee3f4d93c0)
 
 
 - 👣 I’m currently learning **programming** and **bioinformatics**. 
