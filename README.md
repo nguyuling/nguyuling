@@ -3,7 +3,7 @@
 <img align="left" width="175" height="100" src="https://github.com/nguyuling/nguyuling/assets/150541276/42b950dd-4b25-484f-afe4-b2543d45efa9">
 
  &emsp;▪‍ Currently learning **programming** and **bioinformatics**.  
- &emsp;▪ Big on reading (particularly philosophy), country music and football.  
+ &emsp;▪ Big on philosophy, country music and football.  
  &emsp;▪ Latest repo: [**SECP - Technology, Information & System**](https://github.com/nguyuling/SECP1513-Assignment)  
  &emsp;▪ How to reach me: Don't... jk **nguyuling@utm.graduate.my**  
 
