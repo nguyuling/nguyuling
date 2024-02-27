@@ -1,4 +1,4 @@
-# ![Pivot_Wave (3)](https://github.com/nguyuling/nguyuling/assets/150541276/96957f03-22c3-4cb2-9fec-ccb65600456c) ¡Hola, this is Yuling!
+## ![Pivot_Wave (3)](https://github.com/nguyuling/nguyuling/assets/150541276/96957f03-22c3-4cb2-9fec-ccb65600456c) ¡Hola, this is Yuling!
 ### About me:  
 <img align="left" width="175" height="100" src="https://github.com/nguyuling/nguyuling/assets/150541276/42b950dd-4b25-484f-afe4-b2543d45efa9">
 
