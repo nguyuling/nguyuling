@@ -1,7 +1,8 @@
 ### ¡Hola, this is Yuling!
 #### A 1st year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
 
-![cowboy-boots](https://github.com/nguyuling/nguyuling/assets/150541276/1ad5550d-fd7d-4d1c-96e1-703d01ad3b9a)
+![Uploading cowboy-smiley.gif…]()
+
 
 - 👣 I’m currently learning **programming** and **bioinformatics**. 
 - 🗄️ **Latest repo**: [SECP - Technology, Information & System](https://github.com/nguyuling/SECP1513-Assignment)
