@@ -25,7 +25,7 @@
 
 ### Honour & Rewards:  
 &emsp;▪‍ Tokoh Nilam 2019 (Pahang State)
-&emsp;▪‍ 1<sup>st</sup> prize in 2017 National Literary Writing Contest (Prose)  
+&emsp;▪‍ 1<sup>st</sup> prize in 2017 National Literary Writing Contest
 
 ##
 
