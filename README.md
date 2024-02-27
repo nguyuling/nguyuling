@@ -2,10 +2,10 @@
 ### A 1<sup>st</sup> year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
 <img align="left" width="175" height="100" src="https://github.com/nguyuling/nguyuling/assets/150541276/42b950dd-4b25-484f-afe4-b2543d45efa9">
 
- &emsp;👣&enspI’m currently learning **programming** and **bioinformatics**  
- &emsp;🗄️&enspLatest repo: [**SECP - Technology, Information & System**](https://github.com/nguyuling/SECP1513-Assignment)  
- &emsp;✒&enspHow to reach me: don't... jk **nguyuling@utm.graduate.my**  
- &emsp;🖤&enspBig on reading (particularly philosophy), country music and football  
+ &emsp;👣 &enspI’m currently learning **programming** and **bioinformatics**  
+ &emsp;🗄️ &enspLatest repo: [**SECP - Technology, Information & System**](https://github.com/nguyuling/SECP1513-Assignment)  
+ &emsp;✒ &enspHow to reach me: don't... jk **nguyuling@utm.graduate.my**  
+ &emsp;🖤 &enspBig on reading (particularly philosophy), country music and football  
 
 ##
 ###
