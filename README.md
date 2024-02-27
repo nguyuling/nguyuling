@@ -4,7 +4,7 @@
 
  &emsp;👣 I’m currently learning **programming** and **bioinformatics**  
  &emsp;🗄️ Latest repo: [**SECP - Technology, Information & System**](https://github.com/nguyuling/SECP1513-Assignment)  
- &emsp;✒ How to reach me: don't... jk **nguyuling@utm.graduate.my**
+ &emsp;✒ How to reach me: don't... jk **nguyuling@utm.graduate.my**  
  &emsp;🖤 Big on reading (particularly philosophy), country music and football  
 
 ##
