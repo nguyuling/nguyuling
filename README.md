@@ -1,4 +1,4 @@
-<h1 align="left">¡Hola, this is Yuling!👋</h1>
+<h1 align="left">¡Hola, this is Yuling!</h1>
 
 **Computer Science (Bioinformatics)** at **University of Technology Malaysia (UTM)**
 
