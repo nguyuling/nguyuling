@@ -2,7 +2,7 @@
 
 A 1<sup>st</sup> year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
 
-<img src="![cowboy-hat-soccer-books-upscaled](https://github.com/nguyuling/nguyuling/assets/150541276/0f5f11e5-c041-4891-9874-bf9d71530da7)" width="48">
+<img src="![cowboy-hat-soccer-books-upscaled](https://github.com/nguyuling/nguyuling/assets/150541276/0f5f11e5-c041-4891-9874-bf9d71530da7)" width="250">
 
 
 &emsp;👣 I’m currently learning **programming** and **bioinformatics**  
