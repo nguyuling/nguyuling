@@ -1,7 +1,5 @@
 ### 👋 ¡Hola, this is Yuling!
 #### A 1st year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
-![A 1st year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fteamlogostyle.com%2Fproduct%2Fcowboy-soccer-logo%2F&psig=AOvVaw1DI8md5eIssXUnBznu-KyA&ust=1709109149839000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKC91PCNy4QDFQAAAAAdAAAAABAV](https://i0.wp.com/teamlogostyle.com/wp-content/uploads/2015/12/2645-cowboy-soccer-logo-preview.jpg?fit=800%2C800&ssl=1)
-
 
 - 🔭 I’m currently working on [**SECP - Technology, Information & System**](https://github.com/nguyuling/SECP1513-Assignment) 
 - 🌱 I’m currently learning **programming** and **bioinformatics**. 
