@@ -1,4 +1,4 @@
-# ![Pivot_Wave (2)](https://github.com/nguyuling/nguyuling/assets/150541276/a3855961-a847-4345-84c9-e67e83d83d53) ¡Hola, this is Yuling!
+# ![Pivot_Wave (1)](https://github.com/nguyuling/nguyuling/assets/150541276/91ccf26c-5cf3-4224-a511-7e48bf0cbb62) ¡Hola, this is Yuling!
 
 A 1<sup>st</sup> year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
 
