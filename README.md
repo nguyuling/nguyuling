@@ -1,8 +1,10 @@
 # ![Pivot_Wave (3)](https://github.com/nguyuling/nguyuling/assets/150541276/96957f03-22c3-4cb2-9fec-ccb65600456c) ¡Hola, this is Yuling!
 
 ### A 1<sup>st</sup> year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
+<p align="left">
+  <img src="![cowboy-hat-soccer-books-upscaled (2)](https://github.com/nguyuling/nguyuling/assets/150541276/c6f9d7cc-4a29-46af-aa89-ae76e46d518f)" />
+</p>
 
-![cowboy-hat-soccer-books-upscaled (2)](https://github.com/nguyuling/nguyuling/assets/150541276/c6f9d7cc-4a29-46af-aa89-ae76e46d518f)
 &emsp;👣 I’m currently learning **programming** and **bioinformatics**  
 &emsp;🗄️ **Latest repo**: [SECP - Technology, Information & System](https://github.com/nguyuling/SECP1513-Assignment)  
 &emsp;✒ **How to reach me**: don't... jk nguyuling@utm.graduate.my  
