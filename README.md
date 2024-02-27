@@ -1,6 +1,6 @@
 <h1 align="left">¡Hola, this is Yuling!👋</h1>
 
-align="left">Computer Science (Bioinformatics)
+Computer Science (Bioinformatics)
 
 <h2 align="left">I code with</h2>
 
