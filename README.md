@@ -1,7 +1,7 @@
 # ![Pivot_Wave (3)](https://github.com/nguyuling/nguyuling/assets/150541276/96957f03-22c3-4cb2-9fec-ccb65600456c) ¡Hola, this is Yuling!
 
 ### A 1<sup>st</sup> year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
-<img align="left" src="![Pivot_Wave (3)](https://github.com/nguyuling/nguyuling/assets/150541276/a1ccb9c7-4cc5-496a-b2f4-3e706ff4f113)">
+<img align="left" width="268" height="153" src="[https://picsum.photos/100/100](https://github-readme-stats.vercel.app/api?username=nguyuling&show_icons=true)">
 
 &emsp;👣 I’m currently learning **programming** and **bioinformatics**  
 &emsp;🗄️ **Latest repo**: [SECP - Technology, Information & System](https://github.com/nguyuling/SECP1513-Assignment)  
