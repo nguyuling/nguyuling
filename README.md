@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">Welcome to my GitHub!</p>
-
-###
-
 <h2 align="left">Computer Science (Bioinformatics)</h2>
 
 ###
