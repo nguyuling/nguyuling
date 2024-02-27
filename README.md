@@ -18,14 +18,14 @@
 ##
 
 ### Position:  
-&emsp;▪‍ Secretary II Friend of Library UTM (FLUTM)
-&emsp;▪‍ Ahli Rakan JKM KTDI UTM
+&emsp;▪‍ Secretary II of *Friend of Library UTM (FLUTM)*
+&emsp;▪‍ Ahli Rakan *JKM KTDI UTM*
 
 ##
 
 ### Honour & Rewards:  
-&emsp;▪‍ Tokoh Nilam 2019 (Pahang State)
-&emsp;▪‍ 1<sup>st</sup> prize in 2017 National Literary Writing Contest
+&emsp;▪‍ *Tokoh Nilam 2019 (Pahang State)*
+&emsp;▪‍ 1<sup>st</sup> prize in *2017 National Literary Writing Contest*
 
 ##
 
