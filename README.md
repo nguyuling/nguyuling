@@ -2,10 +2,6 @@
 
 <h2 align="left">Computer Science (Bioinformatics)</h2>
 
-<p align="left"></p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
