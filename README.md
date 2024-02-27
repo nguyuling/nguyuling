@@ -1,7 +1,7 @@
 ### 👋 ¡Hola, this is Yuling!
 #### A 1st year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
 
-- 👣 I’m currently learning **programming** and **bioinformatics**. 
+- 👣 I’m currently learning **programming** & **bioinformatics**. 
 - 🗄️ Latest repo: [**SECP - Technology, Information & System**](https://github.com/nguyuling/SECP1513-Assignment)
 - ✒ How to reach me: don't... jk **nguyuling@utm.graduate.my**
 - 🖤 Big on reading (particularly philosophy), country music & football.
