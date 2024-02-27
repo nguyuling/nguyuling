@@ -10,9 +10,10 @@
 
 ##
 
-### Education:  
+### Education & Certificates:  
 &emsp;▪‍ SPM (2016-2021)
 &emsp;▪‍ STPM (2021-2023)
+&emsp;▪‍ MUET (2022)
 &emsp;▪‍ BSc. (2023-) 
 
 ##
