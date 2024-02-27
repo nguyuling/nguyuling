@@ -2,7 +2,7 @@
 
 A 1<sup>st</sup> year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
 
-![cowboy-hat-soccer-books-upscaled](https://github.com/nguyuling/nguyuling/assets/150541276/0f5f11e5-c041-4891-9874-bf9d71530da7)
+![cowboy-hat-soccer-books-upscaled (1)](https://github.com/nguyuling/nguyuling/assets/150541276/331fa2bc-4b6a-4dbe-ba83-359b01c19658)
 
 &emsp;👣 I’m currently learning **programming** and **bioinformatics**  
 &emsp;🗄️ **Latest repo**: [SECP - Technology, Information & System](https://github.com/nguyuling/SECP1513-Assignment)  
