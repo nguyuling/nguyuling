@@ -2,7 +2,8 @@
 
 A 1<sup>st</sup> year **Computer Science (Bioinformatics)** student at **University of Technology Malaysia (UTM)**.
 
-<img src="![cowboy-boots](https://github.com/nguyuling/nguyuling/assets/150541276/d61202c5-0abf-47f8-b7d9-4f49cb61477b)" width="250" height="250"/>
+<img src="![cowboy-hat-soccer-books-upscaled](https://github.com/nguyuling/nguyuling/assets/150541276/0f5f11e5-c041-4891-9874-bf9d71530da7)" width="48">
+
 
 &emsp;👣 I’m currently learning **programming** and **bioinformatics**  
 &emsp;🗄️ **Latest repo**: [SECP - Technology, Information & System](https://github.com/nguyuling/SECP1513-Assignment)  
