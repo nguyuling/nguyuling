@@ -8,11 +8,14 @@
 &emsp;▪ How to reach me: **nguyuling@utm.graduate.my**  
 &emsp;  
 
-## Education
-&emsp;▪‍ SPM (2016-2021)
-&emsp;▪‍ STPM (2021-2023)
+##  
+
+### Education
+&emsp;▪‍ SPM (2016-2021)  
+&emsp;▪‍ STPM (2021-2023)  
 &emsp;▪‍ BSc. (2023-)
-## 
+
+##  
 
 ### Connect with me:  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nguyuling)&emsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nguyuling/)&emsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nguyuling)&emsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/yulingngu)&emsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/playlist/4liungGWkFPWNp071NkAbl?si=ujCt3Gb2RAOB3QQt8ri4Ng&pi=a-xmYdPBE9Ry2L)  
