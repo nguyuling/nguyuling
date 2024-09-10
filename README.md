@@ -18,18 +18,6 @@
 
 ##
 
-### Positions:  
-&emsp;▪‍ Secretary II of [Friend of UTM Library (FLUTM)](https://library.utm.my/friends-of-the-utm-library/) 
-
-##
-
-### Honour & Awards:  
-&emsp;▪‍ Tokoh Nilam 2019 (Pahang State)
-&emsp;▪‍ 1<sup>st</sup> prize in 2017 National Literary Writing Contest
-
-
-##
-
 ### Skills & Languages:  
 &emsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
