@@ -13,7 +13,7 @@ My name is Yuling, and I am a student passionate about the intersection of compu
 
 | Activity and Commits | Profile Views and Streak |
 | :---: | :---: |
-| [![Yuling's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyuling&show_icons=true&theme=onedark)](https://github.com/nguyuling) | [![GitHub Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=blue)](https://github.com/nguyuling) [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=[YOUR_GITHUB_USERNAME]&theme=onedark)](https://github.com/nguyuling) |
+| [![Yuling's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyuling&show_icons=true&theme=onedark)](https://github.com/nguyuling) | [![GitHub Profile Views](https://komarev.com/ghpvc/?username=nguyuling&color=blue)](https://github.com/nguyuling) [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=nguyuling&theme=onedark)](https://github.com/nguyuling) |
 
 ---
 
