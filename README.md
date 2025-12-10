@@ -13,13 +13,13 @@ My name is Yuling, and I am a student passionate about the intersection of compu
 
 | Activity and Commits | Profile Views and Streak |
 | :---: | :---: |
-| [![Yuling's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=onedark)](https://github.com/nguyuling) | [![GitHub Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=blue)](https://github.com/nguyuling) [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=[YOUR_GITHUB_USERNAME]&theme=onedark)](https://github.com/nguyuling) |
+| [![Yuling's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyuling&show_icons=true&theme=onedark)](https://github.com/nguyuling) | [![GitHub Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=blue)](https://github.com/nguyuling) [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=[YOUR_GITHUB_USERNAME]&theme=onedark)](https://github.com/nguyuling) |
 
 ---
 
 ### 🌐 My Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=onedark)](https://github.com/nguyuling)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyuling&layout=compact&theme=onedark)](https://github.com/nguyuling)
 
 ---
 
