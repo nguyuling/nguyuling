@@ -1,7 +1,30 @@
-## ![Pivot_Wave (3)](https://github.com/nguyuling/nguyuling/assets/150541276/96957f03-22c3-4cb2-9fec-ccb65600456c) ¡Hola, this is Yuling!
-### About me:  
+## 💻 Yuling's GitHub
 
-1<sup>st</sup> year **Computer Science (Bioinformatics)** student at **UTM**     
+### 👋 About Me
 
-### Connect with me:  
-&emsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nguyuling)&emsp;&emsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nguyuling/)&emsp;&emsp;
+My name is Yuling, and I am a student passionate about the intersection of computer science and biological data.
+
+* **Institution:** Universiti Teknologi Malaysia (UTM), Johor Bahru, Malaysia
+* **Field:** Computer Science (Bioinformatics)
+
+---
+
+### ✨ GitHub Stats
+
+| Activity and Commits | Profile Views and Streak |
+| :---: | :---: |
+| [![Yuling's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=onedark)](https://github.com/[YOUR_GITHUB_USERNAME]) | [![GitHub Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=blue)](https://github.com/[YOUR_GITHUB_USERNAME]) [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=[YOUR_GITHUB_USERNAME]&theme=onedark)](https://github.com/[YOUR_GITHUB_USERNAME]) |
+
+---
+
+### 🌐 My Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=onedark)](https://github.com/[YOUR_GITHUB_USERNAME])
+
+---
+
+### ✉️ Connect With Me
+
+* **GitHub:** (You're here!)
+* **LinkedIn:** https://www.linkedin.com/in/nguyuling/
+* **Email:** nguyuling@graduate.utm.my
