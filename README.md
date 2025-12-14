@@ -9,15 +9,15 @@ My name is Yuling, and I am a student passionate about the intersection of compu
 
 ---
 
-<table width="100%">
+<table width="100%" align="center" style="border: none;">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="border: none;">
       <h3>✨ GitHub Stats</h3>
       <a href="https://github.com/nguyuling">
         <img src="https://github-readme-stats.vercel.app/api?username=nguyuling&show_icons=true&theme=onedark" alt="Yuling's GitHub Stats"/>
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="border: none;">
       <h3>🌐 My Top Languages</h3>
       <a href="https://github.com/nguyuling">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyuling&layout=compact&theme=onedark" alt="Top Languages"/>
