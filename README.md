@@ -7,8 +7,6 @@ My name is Yuling, and I am a student passionate about the intersection of compu
 * **Institution:** Universiti Teknologi Malaysia (UTM), Johor Bahru, Malaysia
 * **Field:** Computer Science (Bioinformatics)
 
----
-
 <table width="100%" align="center" style="border: none;">
   <tr>
     <td width="50%" align="center" style="border: none; padding: 10px; vertical-align: top;">
@@ -25,8 +23,6 @@ My name is Yuling, and I am a student passionate about the intersection of compu
     </td>
   </tr>
 </table>
-
----
 
 ### ✉️ Connect With Me
 
