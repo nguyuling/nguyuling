@@ -17,7 +17,6 @@ My name is Yuling, and I am a student passionate about the intersection of compu
         <img src="https://github-readme-stats.vercel.app/api?username=nguyuling&show_icons=true&theme=onedark" alt="Yuling's GitHub Stats"/>
       </a>
     </td>
-
     <td width="50%" align="center">
       <h3>🌐 My Top Languages</h3>
       <a href="https://github.com/nguyuling">
