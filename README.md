@@ -9,13 +9,23 @@ My name is Yuling, and I am a student passionate about the intersection of compu
 
 ---
 
-### ✨ GitHub Stats
-[![Yuling's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyuling&show_icons=true&theme=onedark)](https://github.com/nguyuling)
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>✨ GitHub Stats</h3>
+      <a href="https://github.com/nguyuling">
+        <img src="https://github-readme-stats.vercel.app/api?username=nguyuling&show_icons=true&theme=onedark" alt="Yuling's GitHub Stats"/>
+      </a>
+    </td>
 
-
-### 🌐 My Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyuling&layout=compact&theme=onedark)](https://github.com/nguyuling)
+    <td width="50%" align="center">
+      <h3>🌐 My Top Languages</h3>
+      <a href="https://github.com/nguyuling">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyuling&layout=compact&theme=onedark" alt="Top Languages"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
