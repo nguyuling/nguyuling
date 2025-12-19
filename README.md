@@ -2,7 +2,7 @@
 
 ### 👋 About Me
 
-My name is Yuling, and I am a student passionate about the intersection of computer science and biological data.
+This is Yuling, and I'm a student passionate about the intersection of computer science and biological data.
 
 * **Institution:** Universiti Teknologi Malaysia (UTM), Johor Bahru, Malaysia
 * **Field:** Computer Science (Bioinformatics)
