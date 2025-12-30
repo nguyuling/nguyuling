@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/nguyuling">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyuling&show_icons=true&theme=vision-friendly-dark&border_radius=10" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyuling&show_icons=true&theme=vision-friendly-dark&border_radius=30" height="165" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nguyuling">
