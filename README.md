@@ -3,7 +3,7 @@
     <td width="50%" align="center" style="border: none; padding: 20px; vertical-align: top;">
       <h3>✨ GitHub Stats</h3>
       <a href="https://github.com/nguyuling">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyuling&show_icons=true&theme=onedark" alt="Yuling's GitHub Stats width=150%"/>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyuling&show_icons=true&theme=onedark" alt="Yuling's GitHub Stats scale=1.5"/>
       </a>
     </td>
     <td width="50%" align="center" style="border: none; padding: 20px; vertical-align: top;">
