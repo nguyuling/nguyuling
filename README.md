@@ -3,13 +3,13 @@
     <td width="50%" align="center" style="border: none; padding: 10px; vertical-align: top;">
       <h3>✨ GitHub Stats</h3>
       <a href="https://github.com/nguyuling">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyuling&show_icons=true&theme=onedark" width="594" alt="Yuling's GitHub Stats"/>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyuling&show_icons=true&theme=onedark" width="600" alt="Yuling's GitHub Stats"/>
       </a>
     </td>
     <td width="50%" align="center" style="border: none; padding: 10px; vertical-align: top;">
       <h3>🌐 My Top Languages</h3>
       <a href="https://github.com/nguyuling">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyuling&layout=compact&theme=onedark" alt="Top Languages"/>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyuling&layout=compact&theme=onedark" width="495" alt="Top Languages"/>
       </a>
     </td>
   </tr>
