@@ -4,6 +4,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nguyuling">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyuling&layout=compact&theme=buefy" height="195" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyuling&layout=compact&theme=midnight-pursh" height="195" alt="Top Languages" />
   </a>
 </p>
