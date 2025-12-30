@@ -12,7 +12,7 @@ This is Yuling, and I'm a student passionate about the intersection of computer 
     <td width="50%" align="center" style="border: none; padding: 20px; vertical-align: top;">
       <h3>✨ GitHub Stats</h3>
       <a href="https://github.com/nguyuling">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyuling&show_icons=true&theme=onedark" height="195" alt="GitHub Stats"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyuling&theme=onedark" alt="GitHub Stats"/>
       </a>
     </td>
     <td width="50%" align="center" style="border: none; padding: 20px; vertical-align: top;">
