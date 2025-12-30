@@ -1,14 +1,8 @@
-<table width="100%" align="center" style="border: none;">
-  <tr>
-    <td width="53%" align="center" style="border: none; padding: 0px; vertical-align: top;">
-      <a href="https://github.com/nguyuling">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyuling&show_icons=true&theme=onedark" alt="Yuling's GitHub Stats"/>
-      </a>
-    </td>
-    <td width="47%" align="center" style="border: none; padding: 0px; vertical-align: top;">
-      <a href="https://github.com/nguyuling">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyuling&layout=compact&theme=onedark" alt="Top Languages"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/nguyuling">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyuling&show_icons=true&theme=onedark" width="410" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/nguyuling">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyuling&layout=compact&theme=onedark" width="310" alt="Top Languages" />
+  </a>
+</p>
