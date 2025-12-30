@@ -7,22 +7,10 @@ This is Yuling, and I'm a student passionate about the intersection of computer 
 * **Institution:** Universiti Teknologi Malaysia (UTM), Johor Bahru, Malaysia
 * **Field:** Computer Science (Bioinformatics)
 
-<table width="100%" align="center" style="border: none;">
-  <tr>
-    <td width="50%" align="center" style="border: none; padding: 20px; vertical-align: top;">
-      <h3>✨ GitHub Stats</h3>
-      <a href="https://github.com/nguyuling">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyuling&theme=onedark" alt="GitHub Stats"/>
-      </a>
-    </td>
-    <td width="50%" align="center" style="border: none; padding: 20px; vertical-align: top;">
-      <h3>🌐 My Top Languages</h3>
-      <a href="https://github.com/nguyuling">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyuling&theme=onedark" height="195" alt="Top Languages"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<h3>✨ GitHub Stats</h3>
+<a href="https://github.com/nguyuling">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyuling&theme=onedark" alt="GitHub Stats"/>
+</a>
 
 ### ✉️ Connect With Me
 
