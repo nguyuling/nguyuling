@@ -6,5 +6,7 @@
   <a href="https://github.com/nguyuling">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyuling&layout=compact&theme=vision-friendly-dark&border_radius=20&hide_border=true&v=99" height="195" alt="Top Languages" />
   </a>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyuling&theme=holi&animation=load&name=yules&bg_color=000000)
+  <a href="https://github.com/nguyuling">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyuling&theme=holi&animation=load&name=yules&bg_color=000000" alt="Top Languages" />
+  </a>
 </p>
